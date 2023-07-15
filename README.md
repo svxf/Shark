@@ -2,6 +2,11 @@
 
 A Minecraft mod that changes the totem of undying to be a shark.
 
+# Installation
+
+Download the mod via releases or compling it your self
+Also download the ``shark resourcepacks.zip`` for the shark textures, there are 3 versions a ``blue whale``, a ``gray shark``, and a normal ``light blue shark``
+
 ## Building
 	cd platform-${loader}-${version}
 	./gradlew build
