@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "svxf.shark.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+		"BipedEntityModelMixin",
+		"PlayerEntityRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

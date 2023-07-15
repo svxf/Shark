@@ -1,0 +1,47 @@
+{
+	"schemaVersion": 1,
+	"id": "shark",
+	"version": "${version}",
+	"name": "Shark",
+	"description": "a shark totem",
+	"authors": [
+      {
+        "name": "svxf",
+        "role": "Owner"
+      },
+      {
+		"name": "hibi",
+		"role": "Shark Modeler"
+	  }
+    ],
+	"contributors": [{
+		"name": "infoplayerstart",
+		"role": "Translator"
+	}],
+	"contact": {
+		"issues": "https://github.com/svxf/Shark/issues",
+		"sources": "https://github.com/svxf/Shark"
+	},
+
+	"license": "Unlicense",
+	"icon": "assets/shark/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"svxf.shark.Common::onInitialize"
+		]
+	},
+	"mixins": [
+		"shark.mixins.json"
+	],
+
+	"depends": {
+		"fabricloader": ">=0.14.14",
+		"fabric-api": "*",
+		"minecraft": ">=1.19.0 <=1.19.2",
+		"java": ">=17"
+	},
+	"suggests": {
+		"quilt_loader": "*"
+	}
+}
