@@ -1,6 +1,6 @@
 ![Bammer](./resources/banner.png)
 
-# Shark
+# 🦈 Shark
 
 A Minecraft mod that changes the totem of undying to be a shark.
 
@@ -10,7 +10,7 @@ A Minecraft mod that changes the totem of undying to be a shark.
 | Gray Shark | <img src="./resources/preview_gray_shark.png" height=124/> | 
 | Blue Whale | <img src="./resources/preview_blue_whale.png" height=124/> |
 
-# Installation
+# 🚀 Installation
 
 <h3>Download the mod via releases or by compiling it your self.</h3>
 
