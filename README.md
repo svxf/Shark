@@ -1,4 +1,4 @@
-![Bammer](./resources/banner.png)
+![Banner](./resources/banner.png)
 
 # 🦈 Shark
 
